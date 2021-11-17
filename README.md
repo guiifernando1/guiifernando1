@@ -4,7 +4,7 @@
   <samp>
     I'm Guilherme Fernando :wave:
     <br><br>
-    I work as a Delphi at Bytecom Sistemas and learn Web developer :globe_with_meridians:
+    I work as a Delphi at Bytecom Sistemas :globe_with_meridians:
     <br><br>
     There's no place like 127.0.0.1 :grin:
   </samp>
