@@ -6,7 +6,7 @@
     <br><br>
     I work as a Delphi at Bytecom Sistemas and learn Web developer :globe_with_meridians:
     <br><br>
-    Theres no place like 127.0.0.1 :grin:
+    There's no place like 127.0.0.1 :grin:
   </samp>
 </p>
 
