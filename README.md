@@ -12,14 +12,11 @@
 
 <br>
 
-<details>
-  <summary> <b> Things to know about me! </b> <i>(click to expand!)</i> </summary>
-  
-  <br>
-  
-  [![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=guiifernando1&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true)](https://github.com/guiifernando1/github-readme-stats)
-
----
+<p align="center">  
+  <br>  
+  [![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=guiifernando1&show_icons=true&theme=dracula&count_private=true)]    
+  (https://github.com/guiifernando1/github-readme-stats)
+</p>
 
 <p align="center">
   Made with :blue_heart: &nbsp;using GitHub Markdown &nbsp;:arrow_down:
